@@ -1,9 +1,9 @@
 
 ### Rust documentation
 
-[Rust docs](URL 'https://www.rust-lang.org/learn')
+[Rust docs](https://www.rust-lang.org/learn)
 
-[Rust by example](URL 'https://doc.rust-lang.org/stable/rust-by-example/') includes example code blocks that can be run in the browser
+[Rust by example](https://doc.rust-lang.org/stable/rust-by-example) includes example code blocks that can be run in the browser
 
 ### VS code extensions for Rust
 
@@ -29,7 +29,7 @@ Running:
 ```
 cargo clippy
 ```
-[Clippy docs on github](URL 'https://github.com/rust-lang/rust-clippy')
+[Clippy docs on github](https://github.com/rust-lang/rust-clippy)
 
 
 ### Tarpaulin
@@ -43,7 +43,7 @@ Running:
 ```
 cargo tarpaulin
 ```
-[Tarpaulin docs on github](URL 'https://github.com/xd009642/tarpaulin')
+[Tarpaulin docs on github](https://github.com/xd009642/tarpaulin)
 
 
 
